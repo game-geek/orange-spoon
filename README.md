@@ -1,4 +1,4 @@
-#Forest Fires Simulation
+##Forest Fires Simulation
 
 Understand forest fires through a web app.
 
